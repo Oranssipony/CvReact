@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from "react-router-dom";
 import "../styles/Accueil.css";
 import Progressbar from "../components/Progressbar";
 
